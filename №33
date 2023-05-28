@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main() {
+float X,A,Y,K;
+cout<<"Input vaga X "<<endl;
+cin >> X;
+cout<<"Input A grn "<<endl;
+cin >> A;
+cout<<"Input Y "<<endl;;
+cin >> Y;
+K=A/X;
+cout<<" 1Kg "<<K<<endl;
+cout<<"Y"<<Y*K<<endl;
+}
